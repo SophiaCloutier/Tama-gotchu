@@ -16,7 +16,7 @@ A: Evenings all the way
 A: Open a bakery
 
 **Q: Favorite pastry?**
-
+A: I love cheese danishes! 
 **Q: Do you have any siblings?**
 
 ## Milin
@@ -32,9 +32,10 @@ A: Dark wash right now
 
 **Q: Have you ever been to Thailand?**
 
+
 ## Estrella
 
-I'm an MIT senior studying Computer Science and Electrical Engineering (6-3). I am a transfer student from Bunker Hill Community College and originally from Spain. Born and raised in Spain, but lived in Birmingham (UK) for 3 years when I was 10. I play the trumpet and do volleyball. I've recently also got into acting through some classes here at MIT. 
+I'm an MIT senior studying Computer Science and Electrical Engineering (6-3). I am a transfer student from Bunker Hill Community College and originally from Spain. Born and raised in Spain, but lived in Birmingham (UK) for 3 years when I was 10. I play the trumpet and do volleyball. I've recently also got into acting through some classes here at MIT.
 
 ### Q&A
 
@@ -43,3 +44,6 @@ A: Reggae, Britpop and R&B.
 
 **Q: How much do you love cheese on a scale from 1-10?**
 A: 11...how did you know...?
+
+## Rachel
+I'm a junior at MIT studying computer science and engineering (6-3) and minoring in the brain and cognitive science (9). I'm originally from Charlotte, North Carolina and have lived there my whole life. Some of my favorite hobbies are weightlifting, traveling, and learning about human-computer interaction.
