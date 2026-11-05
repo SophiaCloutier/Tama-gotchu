@@ -14,3 +14,17 @@ A: Evenings all the way
 
 **Q: If you weren't an engineer what would you do?**
 A: Open a bakery
+
+**Q: Do you have any siblings?**
+
+## Milin
+I'm an MIT senior studying Computer Science and Design! I play the drums and go to figure drawing classes sometimes. I was born and raised in Texas but my parents are from Thailand. To get rid of my American accent when I speak Thai, my HASS concentration is in Thai Language. It didn't work
+
+### Questions and Answers
+
+**Q: What's your favorite song?**
+A: Movin Out by Billy Joel
+
+**Q: Light wash / dark wash jeans?**
+A: Dark wash right now
+
