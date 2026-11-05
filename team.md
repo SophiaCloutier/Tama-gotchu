@@ -15,6 +15,8 @@ A: Evenings all the way
 **Q: If you weren't an engineer what would you do?**
 A: Open a bakery
 
+**Q: Favorite pastry?**
+
 **Q: Do you have any siblings?**
 
 ## Milin
@@ -28,3 +30,16 @@ A: Movin Out by Billy Joel
 **Q: Light wash / dark wash jeans?**
 A: Dark wash right now
 
+**Q: Have you ever been to Thailand?**
+
+## Estrella
+
+I'm an MIT senior studying Computer Science and Electrical Engineering (6-3). I am a transfer student from Bunker Hill Community College and originally from Spain. Born and raised in Spain, but lived in Birmingham (UK) for 3 years when I was 10. I play the trumpet and do volleyball. I've recently also got into acting through some classes here at MIT. 
+
+### Q&A
+
+**Q: Favorite music genre?**
+A: Reggae, Britpop and R&B.
+
+**Q: How much do you love cheese on a scale from 1-10?**
+A: 11...how did you know...?
